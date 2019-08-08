@@ -1,0 +1,12 @@
+D:\Workspace.VisualStudio\bgk_CpuTemp\bgk_CpuTemp\bin\Debug\bgk_CpuTemp.exe.config
+D:\Workspace.VisualStudio\bgk_CpuTemp\bgk_CpuTemp\bin\Debug\bgk_CpuTemp.exe
+D:\Workspace.VisualStudio\bgk_CpuTemp\bgk_CpuTemp\bin\Debug\bgk_CpuTemp.pdb
+D:\Workspace.VisualStudio\bgk_CpuTemp\bgk_CpuTemp\bin\Debug\OpenHardwareMonitorLib.dll
+D:\Workspace.VisualStudio\bgk_CpuTemp\bgk_CpuTemp\obj\Debug\bgk_CpuTemp.Service1.resources
+D:\Workspace.VisualStudio\bgk_CpuTemp\bgk_CpuTemp\obj\Debug\bgk_CpuTemp.csproj.GenerateResource.cache
+D:\Workspace.VisualStudio\bgk_CpuTemp\bgk_CpuTemp\obj\Debug\bgk_CpuTemp.csproj.CoreCompileInputs.cache
+D:\Workspace.VisualStudio\bgk_CpuTemp\bgk_CpuTemp\obj\Debug\bgk_CpuTemp.csproj.CopyComplete
+D:\Workspace.VisualStudio\bgk_CpuTemp\bgk_CpuTemp\obj\Debug\bgk_CpuTemp.exe
+D:\Workspace.VisualStudio\bgk_CpuTemp\bgk_CpuTemp\obj\Debug\bgk_CpuTemp.pdb
+D:\Workspace.VisualStudio\bgk_CpuTemp\bgk_CpuTemp\obj\Debug\bgk_CpuTemp.ProjectInstaller.resources
+D:\Workspace.VisualStudio\bgk_CpuTemp\bgk_CpuTemp\obj\Debug\bgk_CpuTemp.csprojAssemblyReference.cache

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bgk_CpuTemp", "bgk_CpuTemp\bgk_CpuTemp.csproj", "{FF9E3352-73E5-48AF-8B04-1E9A8FA6B3A2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Kurulum", "Kurulum\Kurulum.vdproj", "{2DBECF7A-4827-47C6-A604-51EEA8BB6A75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF9E3352-73E5-48AF-8B04-1E9A8FA6B3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9E3352-73E5-48AF-8B04-1E9A8FA6B3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9E3352-73E5-48AF-8B04-1E9A8FA6B3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9E3352-73E5-48AF-8B04-1E9A8FA6B3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DBECF7A-4827-47C6-A604-51EEA8BB6A75}.Debug|Any CPU.ActiveCfg = Debug
+		{2DBECF7A-4827-47C6-A604-51EEA8BB6A75}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEF9E880-39C7-4EF7-8F48-93D6120A6A6A}
+	EndGlobalSection
+EndGlobal
